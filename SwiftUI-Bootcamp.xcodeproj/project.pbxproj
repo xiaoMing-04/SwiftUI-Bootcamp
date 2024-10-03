@@ -32,6 +32,10 @@
 		65C2E9E32C9FDECD0025564C /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C2E9E22C9FDECD0025564C /* StateBootcamp.swift */; };
 		65C2E9E52C9FE8780025564C /* ExtractingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C2E9E42C9FE8780025564C /* ExtractingBootcamp.swift */; };
 		65C2E9E72C9FF1210025564C /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C2E9E62C9FF1210025564C /* BindingBootcamp.swift */; };
+		65D8F2632CACFE7E003223CA /* 38.TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8F2622CACFE7E003223CA /* 38.TextEditorBootcamp.swift */; };
+		65D8F2652CAD02BC003223CA /* 39.ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8F2642CAD02BC003223CA /* 39.ToggleBootcamp.swift */; };
+		65D8F2672CAD0495003223CA /* 40.PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8F2662CAD0495003223CA /* 40.PickerBootcamp.swift */; };
+		65D8F2692CAD0C4E003223CA /* 41.PickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8F2682CAD0C4E003223CA /* 41.PickerExample.swift */; };
 		65F859132C91F94800F36691 /* SwiftUI_BootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F859122C91F94800F36691 /* SwiftUI_BootcampApp.swift */; };
 		65F859152C91F94800F36691 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F859142C91F94800F36691 /* IconsBootcamp.swift */; };
 		65F859172C91F94A00F36691 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F859162C91F94A00F36691 /* Assets.xcassets */; };
@@ -65,6 +69,10 @@
 		65C2E9E22C9FDECD0025564C /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		65C2E9E42C9FE8780025564C /* ExtractingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractingBootcamp.swift; sourceTree = "<group>"; };
 		65C2E9E62C9FF1210025564C /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		65D8F2622CACFE7E003223CA /* 38.TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 38.TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		65D8F2642CAD02BC003223CA /* 39.ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 39.ToggleBootcamp.swift; sourceTree = "<group>"; };
+		65D8F2662CAD0495003223CA /* 40.PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 40.PickerBootcamp.swift; sourceTree = "<group>"; };
+		65D8F2682CAD0C4E003223CA /* 41.PickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 41.PickerExample.swift; sourceTree = "<group>"; };
 		65F8590F2C91F94800F36691 /* SwiftUI-Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F859122C91F94800F36691 /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		65F859142C91F94800F36691 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
@@ -131,6 +139,10 @@
 				65B366712CABB63D00B04BAB /* 35.ConfirmationDialogExercise.swift */,
 				65B366732CABBD9D00B04BAB /* 36.ContextMenuBootcamp.swift */,
 				65B366752CABC36E00B04BAB /* 37.TextFieldBootcamp.swift */,
+				65D8F2622CACFE7E003223CA /* 38.TextEditorBootcamp.swift */,
+				65D8F2642CAD02BC003223CA /* 39.ToggleBootcamp.swift */,
+				65D8F2662CAD0495003223CA /* 40.PickerBootcamp.swift */,
+				65D8F2682CAD0C4E003223CA /* 41.PickerExample.swift */,
 				65F859162C91F94A00F36691 /* Assets.xcassets */,
 				65F859182C91F94A00F36691 /* Preview Content */,
 			);
@@ -228,10 +240,14 @@
 				652CF7462C984D29002D8E19 /* ButtonBootcamp.swift in Sources */,
 				65203B812CA9176B001F8265 /* 33.AlertBootcamp.swift in Sources */,
 				65F859212C91FD4000F36691 /* ImagesBootCamp.swift in Sources */,
+				65D8F2652CAD02BC003223CA /* 39.ToggleBootcamp.swift in Sources */,
+				65D8F2692CAD0C4E003223CA /* 41.PickerExample.swift in Sources */,
 				651F3E2D2C92C69D00F5B45A /* FrameBootcamp.swift in Sources */,
+				65D8F2632CACFE7E003223CA /* 38.TextEditorBootcamp.swift in Sources */,
 				65B366702CABB13100B04BAB /* 34.ConfirmationDialogBootcamp.swift in Sources */,
 				65F859132C91F94800F36691 /* SwiftUI_BootcampApp.swift in Sources */,
 				65B366742CABBD9D00B04BAB /* 36.ContextMenuBootcamp.swift in Sources */,
+				65D8F2672CAD0495003223CA /* 40.PickerBootcamp.swift in Sources */,
 				65B366722CABB63D00B04BAB /* 35.ConfirmationDialogExercise.swift in Sources */,
 				65B694BA2CA6883F0031E1BD /* 30.PopoverBootcamp.swift in Sources */,
 				654DA4032CA2969A00CD5A74 /* TransitionBootcamp.swift in Sources */,
